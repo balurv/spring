@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DemoProject/ear/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/ear/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/ejbs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/ejbs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/primary-source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/primary-source/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/projects/logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/projects/logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/projects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/projects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/servlets/servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/servlets/servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/servlets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/servlets/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoProject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/ear/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/ear/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/ejbs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/ejbs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/primary-source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/primary-source/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/projects/logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/projects/logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/projects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/projects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/servlets/servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/servlets/servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/servlets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/servlets/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDemo/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
